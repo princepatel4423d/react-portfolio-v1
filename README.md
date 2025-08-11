@@ -7,15 +7,12 @@ Showcases projects, skills, experience, and contact information with clean UI an
 
 ## Table of Contents
 
-- [Demo](#demo)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Folder Structure](#folder-structure)  
-- [Customization](#customization)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Installation](#installation) 
+- [Folder Structure](#folder-structure) 
+- [License](#license)
+- [Connect With Me](#connect-with-me)
 
 
 ## Features
@@ -72,13 +69,19 @@ react-portfolio-v1/
 └── README.md
 ```
 
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+
 ## Connect With Me
 
 Feel free to reach out or follow me on social media:
 
-- **LinkedIn:** [https://linkedin.com/in/yourusername](https://linkedin.com/in/princepatel4423d)  
-- **GitHub:** [https://github.com/yourusername](https://github.com/princepatel4423d)  
-- **Twitter:** [https://twitter.com/yourusername](https://twitter.com/princep4423d)   
-- **Email:** [youremail@example.com](mailto:princep4423d@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/princepatel4423d](https://linkedin.com/in/princepatel4423d)  
+- **GitHub:** [https://github.com/princepatel4423d](https://github.com/princepatel4423d)  
+- **Twitter:** [https://twitter.com/princep4423d](https://twitter.com/princep4423d)   
+- **Email:** [princep4423d@gmail.com](mailto:princep4423d@gmail.com)
 
 Looking forward to connecting with you!
