@@ -3,9 +3,7 @@
 A modern, responsive personal portfolio website built with React and Tailwind CSS.  
 Showcases projects, skills, experience, and contact information with clean UI and dark mode support.
 
----
-
----
+<img width="1725" height="916" alt="Image" src="https://github.com/user-attachments/assets/1bc16d76-3aea-404a-ab7b-f61793a7dc7a" />
 
 ## Table of Contents
 
@@ -19,7 +17,6 @@ Showcases projects, skills, experience, and contact information with clean UI an
 - [Contributing](#contributing)  
 - [License](#license)  
 
----
 
 ## Features
 
@@ -32,7 +29,6 @@ Showcases projects, skills, experience, and contact information with clean UI an
 - Accessible and SEO-friendly markup  
 - Easy to customize and extend  
 
----
 
 ## Tech Stack
 
@@ -42,7 +38,6 @@ Showcases projects, skills, experience, and contact information with clean UI an
 - JavaScript (ES6+)  
 - Vite 
 
----
 
 ## Installation
 
